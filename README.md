@@ -6,6 +6,10 @@ Progetto per il corso di *Sistemi Complessi*
 
 Questo repository esplora la comparsa del caos deterministico in una catena trofica a tre specie (preda, predatore primario e super-predatore). Partendo dal modello di Hastings-Powell (1991), il progetto analizza lo spazio delle fasi, i diagrammi di biforcazione e la sensibilità alle condizioni iniziali (esponente di Lyapunov). Infine, viene proposta una strategia di "harvesting" (prelievo) mirato per stabilizzare l'attrattore caotico e ricondurre il sistema a un punto di equilibrio asintoticamente stabile.
 
+<video src="./video/caos_3d.mp4" controls="controls" width="100%">
+  Il tuo browser non supporta il tag video.
+</video>
+
 ## Contenuto del repository
 
 - `main.ipynb`: Il notebook principale contenente tutte le simulazioni matematiche.
