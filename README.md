@@ -4,6 +4,7 @@
 
 Progetto per il corso di *Sistemi Complessi*
 
+🇬🇧 [Read this in English](ENGLISH_README.md)
 
 
 https://github.com/user-attachments/assets/8467c664-0f51-40d9-a823-2d2244d46ced
