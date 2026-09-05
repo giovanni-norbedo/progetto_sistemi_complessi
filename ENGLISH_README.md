@@ -38,4 +38,4 @@ jupyter notebook main.ipynb
 
 ---
 
-Reference paper: Hastings, A., & Powell, T. (1991). Chaos in a three-species food chain. *Ecology*, 72(3), 896-903. 
+Reference paper: Hastings, A., & Powell, T. (1991). Chaos in a three-species food chain. *Ecology*, 72(3), 896-903. [Link]( https://www.jstor.org/stable/1940591)
